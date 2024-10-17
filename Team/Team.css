@@ -1,0 +1,38 @@
+h5, p, h1{
+    font-family: "Lato", sans-serif;
+    font-style: normal;
+}
+
+
+a{
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+}
+
+
+
+.card-body{
+    background-color: #083D5F;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+.card-body p{
+    font-size: 10px;
+}
+
+.modal-bodyca .card-body{
+    background-color: white;
+    color: black;
+    font-weight: 500;
+}
+
+
+.rounded p{
+    font-size: 12px;
+}
